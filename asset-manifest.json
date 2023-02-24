@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.3f408df4.css",
-    "main.js": "/static/js/main.62d08c4d.js",
+    "main.js": "/static/js/main.4e6112b6.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/ProPic.jpeg": "/static/media/ProPic.cbfad7383f1eebf4059d.jpeg",
+    "static/media/Ram_Sahith_Terli_resume.pdf": "/static/media/Ram_Sahith_Terli_resume.bbc5b8cf993babe6bdb1.pdf",
+    "static/media/Git_Stats_2.png": "/static/media/Git_Stats_2.4ec0a4eee92dcdf132c3.png",
+    "static/media/Git_Stats_1.png": "/static/media/Git_Stats_1.e19a783d430cdcbe72e2.png",
+    "static/media/Git_Languages.png": "/static/media/Git_Languages.fd11f714431e7d950179.png",
     "index.html": "/index.html",
     "main.3f408df4.css.map": "/static/css/main.3f408df4.css.map",
-    "main.62d08c4d.js.map": "/static/js/main.62d08c4d.js.map",
+    "main.4e6112b6.js.map": "/static/js/main.4e6112b6.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f408df4.css",
-    "static/js/main.62d08c4d.js"
+    "static/js/main.4e6112b6.js"
   ]
 }

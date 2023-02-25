@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3f408df4.css",
-    "main.js": "/static/js/main.235bab56.js",
+    "main.js": "/static/js/main.89cef7b6.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/ProPic.jpeg": "/static/media/ProPic.cbfad7383f1eebf4059d.jpeg",
     "static/media/Ram_Sahith_Terli_resume.pdf": "/static/media/Ram_Sahith_Terli_resume.bbc5b8cf993babe6bdb1.pdf",
     "index.html": "/index.html",
     "main.3f408df4.css.map": "/static/css/main.3f408df4.css.map",
-    "main.235bab56.js.map": "/static/js/main.235bab56.js.map",
+    "main.89cef7b6.js.map": "/static/js/main.89cef7b6.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f408df4.css",
-    "static/js/main.235bab56.js"
+    "static/js/main.89cef7b6.js"
   ]
 }

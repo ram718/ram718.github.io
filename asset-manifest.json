@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f408df4.css",
-    "main.js": "/static/js/main.2b5ac3d6.js",
+    "main.js": "/static/js/main.5f4f085b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Crate_live.png": "/static/media/Crate_live.e87c0beb8b836fd4cd9c.png",
     "static/media/KFC_live.png": "/static/media/KFC_live.76a87361030e9c4da2f6.png",
@@ -11,11 +11,11 @@
     "static/media/Ram_Sahith_Terli_resume.pdf": "/static/media/Ram_Sahith_Terli_resume.bbc5b8cf993babe6bdb1.pdf",
     "index.html": "/index.html",
     "main.3f408df4.css.map": "/static/css/main.3f408df4.css.map",
-    "main.2b5ac3d6.js.map": "/static/js/main.2b5ac3d6.js.map",
+    "main.5f4f085b.js.map": "/static/js/main.5f4f085b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f408df4.css",
-    "static/js/main.2b5ac3d6.js"
+    "static/js/main.5f4f085b.js"
   ]
 }

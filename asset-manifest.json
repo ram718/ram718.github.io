@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.94c3ec5b.css",
-    "main.js": "/static/js/main.ce1e7a55.js",
+    "main.js": "/static/js/main.d9234436.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Crate_live.png": "/static/media/Crate_live.e87c0beb8b836fd4cd9c.png",
     "static/media/KFC_live.png": "/static/media/KFC_live.76a87361030e9c4da2f6.png",
@@ -9,13 +9,14 @@
     "static/media/Buffer_live.png": "/static/media/Buffer_live.67156bd93c7b1bd0c86b.png",
     "static/media/ProPic.jpeg": "/static/media/ProPic.cbfad7383f1eebf4059d.jpeg",
     "static/media/Ram_Sahith_Terli_resume.pdf": "/static/media/Ram_Sahith_Terli_resume.bbc5b8cf993babe6bdb1.pdf",
+    "static/media/chakra.png": "/static/media/chakra.15320604467d004df871.png",
     "index.html": "/index.html",
     "main.94c3ec5b.css.map": "/static/css/main.94c3ec5b.css.map",
-    "main.ce1e7a55.js.map": "/static/js/main.ce1e7a55.js.map",
+    "main.d9234436.js.map": "/static/js/main.d9234436.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94c3ec5b.css",
-    "static/js/main.ce1e7a55.js"
+    "static/js/main.d9234436.js"
   ]
 }
